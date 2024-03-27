@@ -12,6 +12,7 @@
   I am a passionate student dedicated to exploring the intersection of technology and innovation. I actively seek opportunities to further develop my skills and contribute to cutting-edge advancements in the field. Open to networking and collaboration with fellow enthusiasts and professionals in the tech community.</h3>
 
 ![Alt Text](https://github.com/Mrityunjayyshukla/Mrityunjayyshukla/blob/main/intro_gif.gif)<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjayyshukla&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunjayyshukla" /> </p>
 
 - 🔭 I’m currently working on **Learning Machine Learning**
 
