@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Shukla</h1>
+![Intro GIF](https://github.com/your-username/your-repository-name/raw/main/images/your-gif-file.gif)
 <h3 align="left">Computer science engineering student, currently in my third year of study. My areas of expertise include Cross-Platform Frontend App Development using Flutter, 3D Designing, and UX/UI Designing of apps and webpages.<br>
   <p></p>
   My skills encompass:<br>
