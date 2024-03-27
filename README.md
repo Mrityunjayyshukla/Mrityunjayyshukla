@@ -1,7 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Mrityunjay Shukla</h1>
-![Intro GIF](https://github.com/your-username/your-repository-name/raw/main/images/your-gif-file.gif)
 <h3 align="left">Computer science engineering student, currently in my third year of study. My areas of expertise include Cross-Platform Frontend App Development using Flutter, 3D Designing, and UX/UI Designing of apps and webpages.<br>
-  <p></p>
   My skills encompass:<br>
   <ol>
     <li> Proficiency in software such as Blender and Quixel Megascans for 3D Designing.
@@ -12,6 +11,7 @@
   <p></p>
   I am a passionate student dedicated to exploring the intersection of technology and innovation. I actively seek opportunities to further develop my skills and contribute to cutting-edge advancements in the field. Open to networking and collaboration with fellow enthusiasts and professionals in the tech community.</h3>
 
+![Alt Text](https://github.com/Mrityunjayyshukla/Mrityunjayyshukla/blob/main/intro_gif.gif)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjayyshukla&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunjayyshukla" /> </p>
 
 - 🔭 I’m currently working on **Learning Machine Learning**
