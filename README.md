@@ -1,49 +1,83 @@
+<h2 align="center">Hi 👋!<br>My name is Mrityunjay Shukla and I'm a Computer Science Engineering Student</h2>
 
-<h1 align="center">Hi 👋, I'm Mrityunjay Shukla</h1>
-<h3 align="left">Computer science engineering student, currently in my third year of study. My areas of expertise include Cross-Platform Frontend App Development using Flutter, 3D Designing, and UX/UI Designing of apps and webpages.<br>
-  My skills encompass:<br>
-  <ol>
-    <li> Proficiency in software such as Blender and Quixel Megascans for 3D Designing.
-    <li> Mastery of tools like Figma, and Adobe XD for UX/UI Designing.
-    <li> Competency in programming languages including Dart (for Flutter), Python, C/C++, MySQL, HTML, CSS and JavaScript. 
-  </ol>
-  Additionally, I harbor a profound fascination for Astronomy and Quantum Physics, alongside a keen interest in Mobile Photography.<br>
-  <p></p>
-  I am a passionate student dedicated to exploring the intersection of technology and innovation. I actively seek opportunities to further develop my skills and contribute to cutting-edge advancements in the field. Open to networking and collaboration with fellow enthusiasts and professionals in the tech community.</h3>
+###
 
-![Alt Text](https://github.com/Mrityunjayyshukla/Mrityunjayyshukla/blob/main/intro_gif.gif)<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjayyshukla&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunjayyshukla" /> </p>
+<h4 align="left">Computer Science Engineering Student, currently in Final year of study. <br><br>My skills encompass:<br>1. Proficiency in software such as Blender and Quixel Megascans for 3D Designing.<br>2. Mastery of tools like Figma, and Adobe XD for UX/UI Designing.<br>3. Competency in programming languages including Dart (for Flutter), Python, C/C++, MySQL.<br><br>Additionally, I harbor a profound fascination for Astronomy and Quantum Physics, alongside a keen interest in Mobile Photography.<br><br>I am a passionate student dedicated to exploring the intersection of technology and innovation. I actively seek opportunities to further develop my skills and contribute to cutting-edge advancements in the field. Open to networking and collaboration with fellow enthusiasts and professionals in the tech community.</h4>
 
-- 🔭 I’m currently working on **Learning Machine Learning**
+###
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+<br clear="both">
 
-- 👯 I’m looking to collaborate on **UX/UI Projects**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrityunjayyshukla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mrityunjayyshukla&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjayyshukla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- 🤝 I’m looking for help with **Flutter and ML Projects**
+###
 
-- 👨‍💻 All of my projects are available at [linktr.ee/Mrityunjayshukla](linktr.ee/Mrityunjayshukla)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
+</div>
 
-- 📫 How to reach me **shuklamrityunjay60@gmail.com**
+###
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1-_HJoF98Xku1tu55q_LodZKMQYx-G4_g/view)
+<div align="left">
+  <a href="behance.net/mrityunjayshukla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="32" alt="behance logo"  />
+  </a>
+  <a href="shuklamrityunjay60@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  />
+  </a>
+  <a href="linktr.ee/Mrityunjayshukla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="32" alt="linktree logo"  />
+  </a>
+  <a href="www.linkedin.com/in/mrityunjayyshukla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="x.com/mrityunjayyshukla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="32" alt="twitter logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **I have a keen interest in Quantum Physics**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrityunjay_2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrityunjay_2019" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/mrityunjay-shukla-7934a3241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mrityunjay-shukla-7934a3241" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/mrityunjay2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/mrityunjay2505" height="30" width="40" /></a>
-<a href="https://www.behance.net/behance.net/mrityunjayshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/mrityunjayshukla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrityunjay_shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrityunjay_shukla" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/mrityunjayyshukla/mrityunjayyshukla/output/snake.svg" alt="Snake animation" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjayyshukla&show_icons=true&locale=en&layout=compact" alt="mrityunjayyshukla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrityunjayyshukla&show_icons=true&locale=en" alt="mrityunjayyshukla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrityunjayyshukla&" alt="mrityunjayyshukla" /></p>
+###
