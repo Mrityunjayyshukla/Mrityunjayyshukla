@@ -57,19 +57,19 @@
 ###
 
 <div align="left">
-  <a href="behance.net/mrityunjayshukla" target="_blank">
+  <a href="behance.net/mrityunjayshukla">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="32" alt="behance logo"  />
   </a>
-  <a href="shuklamrityunjay60@gmail.com" target="_blank">
+  <a href="shuklamrityunjay60@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  />
   </a>
-  <a href="linktr.ee/Mrityunjayshukla" target="_blank">
+  <a href="linktr.ee/Mrityunjayshukla">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="32" alt="linktree logo"  />
   </a>
-  <a href="www.linkedin.com/in/mrityunjayyshukla" target="_blank">
+  <a href="www.linkedin.com/in/mrityunjayyshukla">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
   </a>
-  <a href="x.com/mrityunjayyshukla" target="_blank">
+  <a href="x.com/mrityunjayyshukla">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="32" alt="twitter logo"  />
   </a>
 </div>
