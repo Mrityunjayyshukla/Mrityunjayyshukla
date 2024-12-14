@@ -14,6 +14,7 @@
     - Android Developer Intern @ Visanka Technologies
     - IT Trainee @ iSON Technologies
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjayyshukla&label=Profile%20views&color=0077B5&style=flat" alt="mrityunjayyshukla"/> </p>
 
 ## CONNECT 🌐
 
@@ -43,4 +44,14 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mrityunjayyshukla/mrityunjayyshukla/output/snake.svg" alt="Snake animation" />
+## STATS 📊
+<p align="center">
+  <a href="https://github.com/Mrityunjayyshukla/github-readme-stats"><img alt="Mrityunjayyshukla Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrityunjayyshukla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrityunjayyshukla&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
+  
+  <br/>
+</a>
+</p>
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/mrityunjayyshukla/mrityunjayyshukla/output/snake.svg" alt="Snake animation" /></p>
