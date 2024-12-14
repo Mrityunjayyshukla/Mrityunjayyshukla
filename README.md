@@ -46,8 +46,8 @@
 
 ## STATS 📊
 <p align="center">
-  <a href="https://github.com/Mrityunjayyshukla/github-readme-stats"><img alt="Mrityunjayyshukla Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrityunjayyshukla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrityunjayyshukla&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Mrityunjayyshukla/github-readme-stats"><img alt="Mrityunjayyshukla Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrityunjayyshukla&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height = "150"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrityunjayyshukla&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" height="150" alt="GitHub Streak" /></a>
   
   <br/>
 </a>
