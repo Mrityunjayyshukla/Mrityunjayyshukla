@@ -1,15 +1,15 @@
 ## ABOUT ME 😊
 ```yaml
-  name: Mrityunjay Shukla
-  role: Computer Science Student
+  NAME: Mrityunjay Shukla
+  ROLE: Computer Science Student
 
-  skills:
+  SKILLS:
     - Flutter
     - Python
     - UI/UX
     - 3D Designing
 
-  experience:
+  EXPERIENCE:
     - Project Trainee @ GlobalLogic
     - Android Developer Intern @ Visanka Technologies
     - IT Trainee @ iSON Technologies
